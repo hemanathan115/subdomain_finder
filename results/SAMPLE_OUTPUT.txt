@@ -1,1 +1,10 @@
+# Subdomain Finder - Sample Results
+# Target: example.com
+# Date: 2024-01-01
+# Total Found: 5
 
+api.example.com
+dev.example.com
+mail.example.com
+staging.example.com
+www.example.com
